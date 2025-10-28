@@ -1,4 +1,4 @@
-# 💻 Projeto: In
+# 💻 Projeto: Auxilo de comunicação para mudos
 
 ![Status do Projeto](https://img.shields.io/badge/Status-Conclu%C3%ADdo-brightgreen)
 
@@ -56,5 +56,8 @@ Este projeto é um ponto de partida. Algumas ideias para o futuro incluem:
 
 [ ] Adicionar suporte a outros idiomas.
 
-👨‍💻 Autor
-Projeto desenvolvido por [(https://github.com/mmooraes)].
+## 👨‍💻 Autor
+
+Projeto desenvolvido por **[Matheus Moraes]**.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-linkedin/)
