@@ -1,4 +1,4 @@
-# 💻 Projeto: Auxilo de comunicação para mudos
+# 💻 Projeto: Auxilo de comunicação para pessoa não falante
 
 ![Python](https://img.shields.io/badge/Python-3.13-blue)
 ![Status do Projeto](https://img.shields.io/badge/Status-Conclu%C3%ADdo-brightgreen)
