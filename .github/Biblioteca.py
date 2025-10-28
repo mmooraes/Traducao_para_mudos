@@ -18,7 +18,6 @@ Comando: python -m pip install --force-reinstall --extra-index-url https://PySim
 
 """
 
-
 #pip install gTTS
 #Documentação: https://pypi.org/project/gTTS
 #Utilidade: Google Text-to-Speech, para criar o áudio
