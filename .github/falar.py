@@ -1,6 +1,6 @@
-import gtts
-import pygame
-import os
+import gtts  # Importa o Google Text-to-Speech
+import pygame # Importa o Pygame para tocar o áudio
+import os # Importa funções do sistema (para apagar o áudio depois)
 from io import BytesIO
 
 #aqui iniciamos o pygame, ele é nescessario para reproduzir o audio
