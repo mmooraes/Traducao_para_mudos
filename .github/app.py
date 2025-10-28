@@ -11,7 +11,7 @@ e B = Button (botão)
 layout = [
     [PySimpleGUI.Text('Selecione uma opção para comunicar: ')],
 
-    [PySimpleGUI.Button('Olá,', size=(20, 2)),
+    [PySimpleGUI.Button('Olá', size=(20, 2)),
      PySimpleGUI.Button('Tudo bem?', size=(20, 2))],
     
     [PySimpleGUI.Button('Sim', size=(20, 2)),
