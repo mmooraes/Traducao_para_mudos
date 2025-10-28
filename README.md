@@ -1,5 +1,6 @@
 # 💻 Projeto: Auxilo de comunicação para mudos
 
+![Python](https://img.shields.io/badge/Python-3.13-blue)
 ![Status do Projeto](https://img.shields.io/badge/Status-Conclu%C3%ADdo-brightgreen)
 
 Uma aplicação de desktop em Python que atua como uma Prancha de Comunicação Aumentativa e Alternativa (CAA), desenvolvida para auxiliar pessoas com dificuldades de fala a se comunicarem através de frases pré-definidas que são convertidas em voz.
