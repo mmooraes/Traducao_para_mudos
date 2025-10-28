@@ -6,12 +6,12 @@ Uma aplicação de desktop em Python que atua como uma Prancha de Comunicação 
 
 ---
 
-> **⚠️ Nota Importante:**
-> Antes de qualquer coisa, tire um print screen (captura de tela) do seu aplicativo funcionando e coloque aqui. Um README com imagens é 10x mais profissional.
+> ** Imagem**
+>
 > 
 > ![Imagem do App](aqui_vai_o_link_da_sua_imagem.png)
 > 
-> (Para fazer isso no GitHub, você pode simplesmente arrastar e soltar a imagem na caixa de texto enquanto edita o README).
+>
 
 ---
 
@@ -37,11 +37,24 @@ Este projeto foi construído com as seguintes tecnologias:
 * **gTTS (Google Text-to-Speech):** Para converter o texto dos botões em áudio.
 * **pygame (módulo mixer):** Para reproduzir os arquivos de áudio .mp3 gerados.
 
-## 🚀 Como Executar o Projeto
+## 🎓 Metodologia e Suporte
+
+Este projeto foi desenvolvido como um exercício prático de programação em Python, com foco na criação de soluções de acessibilidade.
+
+Durante o desenvolvimento, a **IA Gemini (Google)** foi utilizada como uma ferramenta de suporte para brainstorming, depuração de código e sugestões de implementação, auxiliando na estruturação do projeto e na aplicação de boas práticas.
 
 Siga os passos abaixo para rodar o projeto em sua máquina local.
 
-**1. Clone o Repositório**
-```bash
-git clone [https://github.com/SEU-USUARIO/NOME-DO-SEU-REPOSITORIO.git](https://github.com/SEU-USUARIO/NOME-DO-SEU-REPOSITORIO.git)
-cd NOME-DO-SEU-REPOSITORIO
+📈 Próximos Passos (Melhorias Futuras)
+Este projeto é um ponto de partida. Algumas ideias para o futuro incluem:
+
+[ ] Adicionar ícones visuais aos botões para auxiliar usuários não-alfabetizados.
+
+[ ] Criar uma aba de "Digitação" onde o usuário pode escrever uma frase personalizada para ser falada.
+
+[ ] Implementar um sistema de salvar/editar/excluir botões para que o usuário personalize suas próprias frases.
+
+[ ] Adicionar suporte a outros idiomas.
+
+👨‍💻 Autor
+Projeto desenvolvido por [Seu Nome Completo Aqui].
