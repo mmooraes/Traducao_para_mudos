@@ -59,5 +59,3 @@ Este projeto é um ponto de partida. Algumas ideias para o futuro incluem:
 ## 👨‍💻 Autor
 
 Projeto desenvolvido por **[Matheus Moraes](https://www.linkedin.com/in/matheus-moraess)**.
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-moraess)
