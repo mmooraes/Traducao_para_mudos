@@ -57,4 +57,4 @@ Este projeto é um ponto de partida. Algumas ideias para o futuro incluem:
 [ ] Adicionar suporte a outros idiomas.
 
 👨‍💻 Autor
-Projeto desenvolvido por [Seu Nome Completo Aqui].
+Projeto desenvolvido por [(https://github.com/mmooraes)].
