@@ -15,6 +15,7 @@ Comando: python -m pip cache purge
 
 Passo 3: Instale a versão correta do servidor privado Este é o comando mais importante. Ele força a instalação da versão mais recente, buscando no novo endereço (--extra-index-url).
 Comando: python -m pip install --force-reinstall --extra-index-url https://PySimpleGUI.net/install PySimpleGU
+
 """
 
 
