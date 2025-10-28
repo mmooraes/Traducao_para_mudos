@@ -43,9 +43,9 @@ Este projeto foi desenvolvido como um exercício prático de programação em Py
 
 Durante o desenvolvimento, a **IA Gemini (Google)** foi utilizada como uma ferramenta de suporte para brainstorming, depuração de código e sugestões de implementação, auxiliando na estruturação do projeto e na aplicação de boas práticas.
 
-Siga os passos abaixo para rodar o projeto em sua máquina local.
 
-📈 Próximos Passos (Melhorias Futuras)
+
+## 📈 Próximos Passos (Melhorias Futuras)
 Este projeto é um ponto de partida. Algumas ideias para o futuro incluem:
 
 [ ] Adicionar ícones visuais aos botões para auxiliar usuários não-alfabetizados.
