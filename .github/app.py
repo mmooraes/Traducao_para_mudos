@@ -18,7 +18,7 @@ layout = [
      PySimpleGUI.Button('Não', size=(20, 2))],
 
     [PySimpleGUI.Button('Estou com fome', size=(20, 2)),
-     PySimpleGUI.Button('Estou com sede', size=(20, 2))],
+     PySimpleGUI.Button('Estou com cede', size=(20, 2))],
     
     [PySimpleGUI.Button('Quero ir ao banheiro', size=(20, 2)),
      PySimpleGUI.Button('Obrigado!', size=(20, 2))],
